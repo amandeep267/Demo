@@ -1,3 +1,4 @@
+//class voilating solid principles
 public class DemoMotor
 { private String pattern;
  MotorEngine engine;
